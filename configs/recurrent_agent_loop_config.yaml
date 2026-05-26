@@ -1,0 +1,2 @@
+- name: recurrent_memory_agent
+  _target_: onepred.recurrent_agent_loop.RecurrentMemoryAgentLoop

@@ -1,0 +1,4 @@
+interaction:
+  - name: "onepred"
+    class_name: "onepred.interaction.OnePredInteraction"
+    config: {}
