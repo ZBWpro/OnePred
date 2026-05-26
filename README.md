@@ -13,6 +13,12 @@ Given a multi-turn conversation history, OnePred predicts what the user will ask
 
 The memory acts as an information bottleneck: the model must learn *what to remember* because it cannot access raw history at later turns.
 
+## Benchmark (NQP-Bench)
+
+The NQP-Bench dataset (NQP-Wild and NQP-Share subsets) is publicly available for research:
+
+**Download**: [https://osf.io/bhnwt](https://osf.io/bhnwt/?view_only=addfacef099c475a82c4c39c0d1c8412)
+
 ## Directory Structure
 
 ```
