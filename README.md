@@ -19,6 +19,8 @@ The NQP-Bench dataset (NQP-Wild and NQP-Share subsets) is publicly available for
 
 **Download**: [https://osf.io/bhnwt](https://osf.io/bhnwt/?view_only=addfacef099c475a82c4c39c0d1c8412)
 
+**Hugging Face**: [https://huggingface.co/datasets/prophesier/NQP-Bench](https://huggingface.co/datasets/prophesier/NQP-Bench)
+
 ## Directory Structure
 
 ```
