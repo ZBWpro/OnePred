@@ -112,6 +112,17 @@ python -m tools.compute_metrics --input_dir outputs/eval_run/
 python -m tools.summarize_eval outputs/eval_run/
 ```
 
-## License
+## Citation
 
-MIT
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@misc{chen2026onepred,
+  title={OnePred: Next-Query Prediction via Recursive Intent Memory in Multi-Turn Conversations},
+  author={Chen, Jiangwang and Zhang, Bowen and Song, Zixin and Kang, Jiazheng and Yang, Xiao and Zhu, Da and Jiang, Guanjun},
+  year={2026},
+  eprint={2605.23668},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2605.23668},
+}
+```
